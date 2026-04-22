@@ -1,5 +1,5 @@
 # Kiln Terminal
-## Source code in "Source" branch, click the dropdown and select "Source"
+## Source code in "Source" branch, click the dropdown and select "Source" (https://github.com/wiktorlaskowski/kiln-terminal/tree/Source)
 ### A simple terminal app that integrates with the UI
 
 ### Install insturction
