@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Kiln Terminal
+GenericName=Terminal
+Comment=A modern GTK4 terminal emulator with multi-shell support
+Exec=kiln-terminal
+Icon=utilities-terminal
+Terminal=false
+Categories=GNOME;GTK;System;TerminalEmulator;
+Keywords=shell;prompt;command;commandline;cmd;
+StartupNotify=true
