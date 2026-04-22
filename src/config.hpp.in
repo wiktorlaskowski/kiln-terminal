@@ -1,0 +1,5 @@
+#pragma once
+
+#define KILN_APP_ID       "@APP_ID@"
+#define KILN_APP_NAME     "Kiln Terminal"
+#define KILN_APP_VERSION  "@PROJECT_VERSION@"
