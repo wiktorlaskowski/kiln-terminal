@@ -1,0 +1,23 @@
+Package: kiln-terminal
+Version: 1.2.0-1
+Architecture: amd64
+Maintainer: Kiln Terminal Maintainers <maintainer@example.com>
+Installed-Size: 151
+Depends: libadwaita-1-0 (>= 1.4), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libglib2.0-0t64 (>= 2.38.0), libgtk-4-1 (>= 4.10), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 13), libvte-2.91-gtk4-0 (>= 0.61.91)
+Recommends: fonts-dejavu-core
+Suggests: zsh | fish | dash
+Filename: ./kiln-terminal_1.2.0-1_amd64.deb
+Size: 55842
+MD5sum: a3ad3dd1324e2b3713541dbf346985bb
+SHA1: c57c9f2caa915f466059f4278287d49648b7d56c
+SHA256: 534d64dea0e9e93ccab2b85a55e56cfc59b509037c10fdf3116215ec12e48acc
+Section: utils
+Priority: optional
+Homepage: https://example.invalid/kiln-terminal
+Description: Modern GTK4 terminal emulator with multi-shell support
+ Kiln Terminal is a GTK4 / libadwaita terminal emulator built on VTE. It
+ integrates with the GNOME visual style, follows the system dark-mode
+ preference, and offers a new-tab split button that lets you pick any
+ shell detected on the system (from /etc/shells and common locations)
+ for each new tab.
+
